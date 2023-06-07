@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# React Training V18
+
+## NPX
+
+The npx is used to download and create the package unlike npm where it installs the package. Globally -g or 
+
+Like in:
+
+...
+// in Terminal
+ npx create-react-app
+
+...
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
